@@ -14,7 +14,7 @@ function ReactRouter() {
     return (
         <div>
             <Navb />
-            <BrowserRouter basename="/rexon">   
+            <BrowserRouter basename="/#/rexon">   
             <Switch>
                 <Route exact path="/career" component={ Career} />
                 <Route exact path="/" component={ Home} />
