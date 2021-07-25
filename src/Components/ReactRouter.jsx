@@ -14,7 +14,7 @@ function ReactRouter() {
     return (
         <div>
             <Navb />
-            <BrowserRouter basename={process.env.PUBLIC_URL }>   
+            <BrowserRouter basename="/rexon">   
             <Switch>
                 <Route exact path="/career" component={ Career} />
                 <Route exact path="/" component={ Home} />
