@@ -19,7 +19,7 @@ function Navb() {
                             <Nav.Link href="http://arshali471.github.io/rexon/#/services" className='p-3'>Services</Nav.Link>
                            
                             <Nav.Link className='p-3' exact activeClassName="active_class" href='http://arshali471.github.io/rexon/#/career'>Career</Nav.Link>
-                            <Nav.Link className='p-3' exact activeClassName="active_class" href='http://arshali471.github.io/rexon/#/contact'>Contact Us</Nav.Link>
+                            <Nav.Link className='p-3' href='http://arshali471.github.io/rexon/#/contact'>Contact Us</Nav.Link>
                         
                         </Nav>
                     </Navbar.Collapse>
