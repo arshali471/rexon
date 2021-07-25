@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/rexon/static/css/main.8ff161c9.chunk.css",
-    "main.js": "/rexon/static/js/main.7c46d67b.chunk.js",
-    "main.js.map": "/rexon/static/js/main.7c46d67b.chunk.js.map",
+    "main.js": "/rexon/static/js/main.2ccab49f.chunk.js",
+    "main.js.map": "/rexon/static/js/main.2ccab49f.chunk.js.map",
     "runtime-main.js": "/rexon/static/js/runtime-main.c5c5600e.js",
     "runtime-main.js.map": "/rexon/static/js/runtime-main.c5c5600e.js.map",
     "static/css/2.4be38407.chunk.css": "/rexon/static/css/2.4be38407.chunk.css",
-    "static/js/2.8ef4d2be.chunk.js": "/rexon/static/js/2.8ef4d2be.chunk.js",
-    "static/js/2.8ef4d2be.chunk.js.map": "/rexon/static/js/2.8ef4d2be.chunk.js.map",
+    "static/js/2.dba86bfa.chunk.js": "/rexon/static/js/2.dba86bfa.chunk.js",
+    "static/js/2.dba86bfa.chunk.js.map": "/rexon/static/js/2.dba86bfa.chunk.js.map",
     "static/js/3.3c7fea50.chunk.js": "/rexon/static/js/3.3c7fea50.chunk.js",
     "static/js/3.3c7fea50.chunk.js.map": "/rexon/static/js/3.3c7fea50.chunk.js.map",
     "index.html": "/rexon/index.html",
     "static/css/2.4be38407.chunk.css.map": "/rexon/static/css/2.4be38407.chunk.css.map",
     "static/css/main.8ff161c9.chunk.css.map": "/rexon/static/css/main.8ff161c9.chunk.css.map",
-    "static/js/2.8ef4d2be.chunk.js.LICENSE.txt": "/rexon/static/js/2.8ef4d2be.chunk.js.LICENSE.txt",
+    "static/js/2.dba86bfa.chunk.js.LICENSE.txt": "/rexon/static/js/2.dba86bfa.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/rexon/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c5c5600e.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.8ef4d2be.chunk.js",
+    "static/js/2.dba86bfa.chunk.js",
     "static/css/main.8ff161c9.chunk.css",
-    "static/js/main.7c46d67b.chunk.js"
+    "static/js/main.2ccab49f.chunk.js"
   ]
 }
