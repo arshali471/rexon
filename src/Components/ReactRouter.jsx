@@ -14,16 +14,15 @@ function ReactRouter() {
     return (
         <div>
             <Navb />
-            <BrowserRouter basename="/#/rexon">   
+            <BrowserRouter basename="/rexon">   
             <Switch>
-                <Route exact path="/career" component={ Career} />
                 <Route exact path="/" component={ Home} />
                 <Route exact path="/about" component={ About} />
                 <Route exact path="/gallery" component={ Gallery} />
                 <Route exact path="/services" component={ Services} />
+                <Route exact path="/career" component={ Career} />
                 <Route path="/contact" component={ Contact} />
                 <Route component={Error} />
-
             </Switch>
             </BrowserRouter>
             {/* <Career/> */}
