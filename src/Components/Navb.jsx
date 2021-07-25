@@ -13,13 +13,13 @@ function Navb() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                            <Nav.Link href="http://arshali471.github.io/rexon/#/" className='p-3'>Home</Nav.Link>
-                            <Nav.Link href="http://arshali471.github.io/rexon/#/about" className='p-3'>About</Nav.Link>
-                            <Nav.Link href="http://arshali471.github.io/rexon/#/gallery" className='p-3'>Our gallery</Nav.Link>
-                            <Nav.Link href="http://arshali471.github.io/rexon/#/services" className='p-3'>Services</Nav.Link>
+                            <Nav.Link href="/" className='p-3'>Home</Nav.Link>
+                            <Nav.Link href="/about" className='p-3'>About</Nav.Link>
+                            <Nav.Link href="/gallery" className='p-3'>Our gallery</Nav.Link>
+                            <Nav.Link href="/services" className='p-3'>Services</Nav.Link>
                            
-                            <Nav.Link className='p-3' exact activeClassName="active_class" href='http://arshali471.github.io/rexon/#/career'>Career</Nav.Link>
-                            <Nav.Link className='p-3' href='http://arshali471.github.io/rexon/#/contact'>Contact Us</Nav.Link>
+                            <Nav.Link className='p-3' exact activeClassName="active_class" href='/career'>Career</Nav.Link>
+                            <Nav.Link className='p-3' exact activeClassName="active_class" href='/contact'>Contact Us</Nav.Link>
                         
                         </Nav>
                     </Navbar.Collapse>
