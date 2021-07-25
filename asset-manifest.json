@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rexon/static/css/main.8ff161c9.chunk.css",
-    "main.js": "/rexon/static/js/main.2ccab49f.chunk.js",
-    "main.js.map": "/rexon/static/js/main.2ccab49f.chunk.js.map",
+    "main.js": "/rexon/static/js/main.00b7fb6e.chunk.js",
+    "main.js.map": "/rexon/static/js/main.00b7fb6e.chunk.js.map",
     "runtime-main.js": "/rexon/static/js/runtime-main.c5c5600e.js",
     "runtime-main.js.map": "/rexon/static/js/runtime-main.c5c5600e.js.map",
     "static/css/2.4be38407.chunk.css": "/rexon/static/css/2.4be38407.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.dba86bfa.chunk.js",
     "static/css/main.8ff161c9.chunk.css",
-    "static/js/main.2ccab49f.chunk.js"
+    "static/js/main.00b7fb6e.chunk.js"
   ]
 }
