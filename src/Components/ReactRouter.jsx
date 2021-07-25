@@ -8,13 +8,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navb from './Navb';
 import Footer from './Footer';
 import Contact from './Contact'; 
-import {BrowserRouter, Redirect, Route, Switch} from 'react-router-dom'
+import {HashRouter, Redirect, Route, Switch} from 'react-router-dom'
 
 function ReactRouter() {
     return (
         <div>
             <Navb />
-            <BrowserRouter>   
+            <HashRouter>   
             <Switch>
                 <Route exact path="/career" component={ Career} />
                 <Route exact path="/" component={ Home} />
@@ -25,7 +25,7 @@ function ReactRouter() {
                 <Route component={Error} />
 
             </Switch>
-            </BrowserRouter>
+            </HashRouter>
             {/* <Career/> */}
             {/* <Contact/> */}
             <Footer />
