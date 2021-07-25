@@ -1,0 +1,24 @@
+.navbar .nav-link{
+    color: red !important;
+    /* font-weight: bold; */
+    font-size: large;
+}
+.navbar .navbar-brand{
+    color: red !important;
+}
+.navbar{
+    background-color: white !important;
+}
+.career{
+    background-color: #e7c9ac;
+}
+.wh{
+    color: red;
+}
+.text{
+    text-align: left;
+}
+.text1{
+    text-align: left;
+    font-weight: bold;
+}

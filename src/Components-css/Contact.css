@@ -1,0 +1,29 @@
+.contact{
+    background-color: rgb(149 197 151);
+    box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+    border-radius: 10px;
+}
+.contact h2{
+    color: red;
+}
+.fcol{
+    background-color: white;
+    box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+    border-radius: 10px;text-align: left;
+}
+.form-label{
+    text-align: left !important;
+}
+.reach{
+    background-color: rgb(69 44 109);
+    box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+    border-radius: 10px;
+    color: white;
+    text-align: left;
+}
+.reach h4{
+    font-weight: bold;
+}
+.reach a{
+    color: orange;
+}
